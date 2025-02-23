@@ -26,5 +26,4 @@ __pycache__/
 .env
 *.log
 *.doc
-*.docx
 *.txt
